@@ -27,4 +27,6 @@ public final class Messages extends NLS {
 	static {
 		NLS.initializeMessages(BUNDLE_NAME, Messages.class);
 	}
+	
+	//something I did
 }

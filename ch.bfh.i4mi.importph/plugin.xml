@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="at.medevit.elexis.ehc.ui.ehcexport">
+      <wizard
+            class="ch.bfh.i4mi.importph.Wizard"
+            id="ch.bfh.i4mi.importph.wizard1"
+            name="importanae">
+      </wizard>
+   </extension>
+
+</plugin>

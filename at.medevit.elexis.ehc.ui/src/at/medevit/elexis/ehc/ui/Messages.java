@@ -29,4 +29,5 @@ public final class Messages extends NLS {
 	}
 	
 	//something I did
+	//another something
 }
